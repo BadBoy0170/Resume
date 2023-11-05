@@ -11,8 +11,8 @@ My name is **Kunal Ranjan**. I'm a 3rd-year B.Tech(Bachelor of Computer Science)
 | <strong>PHONE</strong> | +91 74640105-- |
 
 
-## Coding Skills :man_technologist:
-  - **Languages:**  Python [![][python]](), UNIX, PHP, SQL, HTML, CSS, .NET, JavaScript.
+## Coding Skills :
+  - **Languages:**  Python , UNIX, PHP, SQL, HTML, CSS, .NET, JavaScript.
 
   - **Libraries:** NumPy, Pandas, Scikit-Learn, Tkinter, Matplotlib, Poltly, Seaborn, PyTorch, Keras, Flask, TensorFlow, OpenCV, NLTK, Bootstrap Framework, Material Design Concept, OOPs Concept
 
@@ -20,7 +20,7 @@ My name is **Kunal Ranjan**. I'm a 3rd-year B.Tech(Bachelor of Computer Science)
 
   - **Development Environment:** Ubuntu 18.04 (Using), Windows OS, Jupyter Notebook, Spyder, Visual Studio Code as a text editor, Sublime Text
 
-  - **Version Control:**  One and only GitHub :heart:
+  - **Version Control:**  One and only GitHub 
 
 ## What can I do?
   - I can develop end to end any kind of website in WordPress. 
@@ -32,33 +32,39 @@ My name is **Kunal Ranjan**. I'm a 3rd-year B.Tech(Bachelor of Computer Science)
 
 ## Portfolio :flight_departure:
   - **Machine Learning**
-    - Restaurant Review Sentiment Analysis :point_right: [LaunchPad ![][Launchpad]][restaurant]  [SourceCode ![][Source_Code]][restaurant_code]
-    - IPL First Inning Score Predict :point_right: [LaunchPad ![][Launchpad]][ipl score]  [SourceCode ![][Source_Code]][ipl score code]
-    - Spam SMS Detector :point_right: [LaunchPad ![][Launchpad]][spam-sms-detector]  [SourceCode ![][Source_Code]][spam-sms-detector code]
-    - Twitter Sentiment Analysis on FlaskApp :point_right: [LaunchPad ![][Launchpad]][Twitter-Sentiment]  [SourceCode ![][Source_Code]][Twitter-Sentiment code]
-    - Movies Genre Classification :point_right: [SourceCode ![][Source_Code]][Movies-Genre-Classification]
-    - Nifty50 Index Time Series Analysis :point_right: [SourceCode ![][Source_Code]][Nifty50]
+    - Restaurant Review Sentiment Analysis : [LaunchPad ![][Launchpad]][restaurant]  [SourceCode ![][Source_Code]][restaurant_code]
+    - IPL First Inning Score Predict : [LaunchPad ![][Launchpad]][ipl score]  [SourceCode ![][Source_Code]][ipl score code]
+    - Spam SMS Detector : [LaunchPad ![][Launchpad]][spam-sms-detector]  [SourceCode ![][Source_Code]][spam-sms-detector code]
+    - Twitter Sentiment Analysis on FlaskApp : [LaunchPad ![][Launchpad]][Twitter-Sentiment]  [SourceCode ![][Source_Code]][Twitter-Sentiment code]
+    - Movies Genre Classification : [SourceCode ![][Source_Code]][Movies-Genre-Classification]
+    - Nifty50 Index Time Series Analysis : [SourceCode ![][Source_Code]][Nifty50]
   - **Bots**
-    - Twitter Bot :point_right: [LaunchPad ![][Launchpad]][twitter bot]  [SourceCode ![][Source_Code]][twitter bot code]
+    - Twitter Bot : [LaunchPad ![][Launchpad]][twitter bot]  [SourceCode ![][Source_Code]][twitter bot code]
   - **FlaskApp**
-    - Student Result Management System :point_right: [SourceCode ![][Source_Code]][SRMS]
-    - Blog Website on FlaskApp :point_right: [SourceCode ![][Source_Code]][Blog-Website]
+    - Student Result Management System : [SourceCode ![][Source_Code]][SRMS]
+    - Blog Website on FlaskApp : [SourceCode ![][Source_Code]][Blog-Website]
   - **Python Script**
-    - Fetch old tweets :point_right: [SourceCode ![][Source_Code]][fetch-old-tweets]
-    - Tic Tac Toe Game on Python GUI :point_right: [SourceCode ![][Source_Code]][Tic-Tac-Toe]
-    - Snake game in Python :point_right: [SourceCode ![][Source_Code]][Snake-game]
+    - Fetch old tweets : [SourceCode ![][Source_Code]][fetch-old-tweets]
+    - Tic Tac Toe Game on Python GUI : [SourceCode ![][Source_Code]][Tic-Tac-Toe]
+    - Snake game in Python : [SourceCode ![][Source_Code]][Snake-game]
   - **Unix**
-    - Shell Script :point_right: [SourceCode ![][Source_Code]][shell script]
+    - Shell Script : [SourceCode ![][Source_Code]][shell script]
 
+
+## Contribution
+
+Contributions are welcome! If you have any suggestions, bug fixes, or feature additions, please open an issue or submit a pull request.
+
+**BTC Wallet : OxfCaaF45156380eF33f078256d0Aa98f0b10F175b** my efforts and help it grow by buying me coffee - but only if you're definitely able to!
 
 ## Connect with me! 🌐
-Known on internet as **Yogesh Nile**
+Known on internet as **BadBoy17**
 
-[![][I_LinkedIn]][LinkedIn]  [![][I_Github]][Github] [![][I_Twitter]][Twitter] [![][I_Telegram]][Telegram] [![][I_Instagram]][Instagram]  [![][I_Instagram Personal]][Instagram Personal]   [![][I_discord]][discord]
+[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png" title="LinkedIn">](www.linkedin.com/in/kunal-ranjan-166b30249)      [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/github.png" title="Github">](https://github.com/BadBoy0170)     [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/instagram-new.png" title="Instagram">](https://instagram.com/badboy__17_/) 
 
-## Email Me :e-mail:
+## Email Me :
+[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/secured-letter.png" title="Mail me">](mailto:Rajveershikhawat07@gmail.com)
 
-[![][I_Email]][E-mail]
 
 
 <!--================================= Hyper Links =================================-->
