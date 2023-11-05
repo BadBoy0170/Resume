@@ -1,15 +1,15 @@
-## Who Am I? 🙋‍♂️
-My name is **Yogesh Nile**. I'm a 3rd-year BCA(Bachelor of Computer Application) student from **Vimal Tormal Poddar BCA Collage (Affliated to Veer Narmad South Gujarat University)**, Surat. I hail from a small village of Maharashtra, India. I started my coding journey in 2017 when I want to did something in computer field. In which devoting 3 years to BCA, in 2018 I shifted my interest into the field of software engineering. Since then, I breathe in code. 💻
+## Who Am I? 
+My name is **Kunal Ranjan**. I'm a 3rd-year B.Tech(Bachelor of Computer Science) student from **Vimal Tormal Poddar BCA Collage (Affliated to Veer Narmad South Gujarat University)**, Surat. I hail from a small village of Maharashtra, India. I started my coding journey in 2017 when I want to did something in computer field. In which devoting 3 years to BCA, in 2018 I shifted my interest into the field of software engineering. Since then, I breathe in code. 💻
 
-## Personal Information 👨‍💼
+## Personal Information 
 |  &nbsp; |    &nbsp; |
 |------|-----------|
-| <strong>FULL NAME</strong> | YOGESH DATTU NILE |
-| <strong>Age</strong> | 23 |
-| <strong>ADDRESS</strong> | Surat, Gujarat, India |
-| <strong>E-MAIL</strong> | yogeshnile.work4u@gmail.com |
-| <strong>PHONE</strong> | +91 81540 36913 |
-| <strong>FREELANCE</strong> | 🟢 Available |
+| <strong>FULL NAME</strong> | KUNAL RANJAN |
+| <strong>Age</strong> | 21 |
+| <strong>ADDRESS</strong> | Ranchi, Jharkhand, India |
+| <strong>E-MAIL</strong> | rajveershikhawat07@gmail.com |
+| <strong>PHONE</strong> | +91 74640105-- |
+
 
 ## Coding Skills :man_technologist:
   - **Languages:**  Python [![][python]](), UNIX, PHP, SQL, HTML, CSS, .NET, JavaScript.
@@ -23,17 +23,11 @@ My name is **Yogesh Nile**. I'm a 3rd-year BCA(Bachelor of Computer Application)
   - **Version Control:**  One and only GitHub :heart:
 
 ## What can I do?
-  - I can develop end to end any kind of website in WordPress. [![][wordpress]](https://wordpress.org/)
-  - Literally everything with data!! :blush:
-  - Any kind of website's backend I can do developing in python and php. [![][developer]][Github]
-  - Do everything in python. [![][python]]() (FlaskApp, Machine Learning, GUI App, Web Scraping, Bots, Game, etc)
-  - Fully working on Google Cloud Platform [![][GCP]]() like Website Hosting, Compute, Networking, Management Tools, API.
-  - Develop end to end any kind of website in PHP. [![][php]]()
-  - Server Management. [![][server]]()
-  
-## LinkedIn Recommendations :boom:
-
-<a href="https://bit.ly/2Ky3ho6"><img src="https://i.imgur.com/lMWzg1W.png"/></a>
+  - I can develop end to end any kind of website in WordPress. 
+  - Literally everything with data! 
+  - Do everything in python. (FlaskApp, Machine Learning, GUI App, Web Scraping, Bots, Game, etc)
+  - Fully working on Google Cloud Platform like Website Hosting, Compute, Networking, Management Tools, API.
+  - Develop end to end any kind of website in PHP. 
 
 
 ## Portfolio :flight_departure:
